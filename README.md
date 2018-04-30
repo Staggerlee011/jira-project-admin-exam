@@ -15,3 +15,7 @@ https://www.atlassian.com/university/certification/certifications/exam-acp-600
 - [Issue Types, Workflows, Fields, Screens and Notification](Issue-Types-Workflows-Fields-Screens-and-Notification\README.md)
 - [Reports, Dashboards and JQL](Reports-Dashboards-JQL\README.md)
 - [Global Configuration](Global-Configuration\README.md)
+
+
+## Study Notes from the Atlassian PRoject Administrator In Jira Server
+[Study Notes](Study-notes/README.md)
